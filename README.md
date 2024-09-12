@@ -1,10 +1,6 @@
 
 
-<div witdh="700" align="center">
-  <img height="150"  style="width: 100%;" src="https://github.com/Arminba79/Arminba79/blob/main/profgithub.jpg"  />
-  
 
-</div>
 
 ###
 
