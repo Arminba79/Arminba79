@@ -1,8 +1,8 @@
 
 
 <div witdh="700" align="center">
-  <img height="150" witdh=max src="https://wallpapercave.com/download/strawberry-milkshake-wallpapers-wp14422529"  />
-  <span style="color: red; font-weight: bold; fontsize:"52" ">این متن سبز و پررنگ است.</span>
+  <img height="150"  style="width: 100%; witdh=max src="https://wallpapercave.com/download/strawberry-milkshake-wallpapers-wp14422529"  />
+  
 
 </div>
 
