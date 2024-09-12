@@ -2,7 +2,7 @@
 
 <div witdh="700" align="center">
   <img height="150" witdh=max src="https://wallpapercave.com/download/strawberry-milkshake-wallpapers-wp14422529"  />
-  <span style="color: green; font-weight: bold;">این متن سبز و پررنگ است.</span>
+  <span style="color: green; font-weight: bold; fontsize:"52" ">این متن سبز و پررنگ است.</span>
 
 </div>
 
