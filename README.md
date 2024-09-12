@@ -1,10 +1,5 @@
 
-<style>
-    table {
-        width: 100%;
-      backgroundcolor:"red"
-    }
-</style>
+
 <div witdh="700" align="center">
   <img height="150" witdh=max src="https://wallpapercave.com/download/strawberry-milkshake-wallpapers-wp14422529"  />
 </div>
