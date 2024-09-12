@@ -1,4 +1,4 @@
-<div align="center">
+<div witdh=max align="center">
   <img height="150" witdh=max src="https://github.com/Arminba79/Arminba79/blob/main/profgithub.jpg"  />
 </div>
 
