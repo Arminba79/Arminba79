@@ -1,4 +1,14 @@
 ---
+
+
+### <h1 align="center">I'm Armin</h1>
+
+#### Hello!
+I am Armin, a Computer Science student at Azad University. As a junior front-end developer, I have experience working with modern frameworks such as Tailwind CSS and React. Currently, I am learning Next.js to elevate my skills to the next level. Additionally, I am proficient in Python and have utilized it for various projects.
+
+---
+
+
 ### <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
@@ -8,13 +18,6 @@
 ### <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Arminba79.Arminba79&" />
 </div>
-
-### <h1 align="center">I'm Armin</h1>
-
-#### Hello!
-I am Armin, a Computer Science student at Azad University. As a junior front-end developer, I have experience working with modern frameworks such as Tailwind CSS and React. Currently, I am learning Next.js to elevate my skills to the next level. Additionally, I am proficient in Python and have utilized it for various projects.
-
----
 
 ### <h3 align="left">Language and tools</h3>
 <div align="left">
