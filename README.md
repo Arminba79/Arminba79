@@ -11,9 +11,7 @@ I am Armin, a Computer Science student at Azad University. As a junior front-end
 
 
 
-### <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Arminba79.Arminba79&" />
-</div>
+
 
 ### <h3 align="left">Language and tools</h3>
 <div align="left">
