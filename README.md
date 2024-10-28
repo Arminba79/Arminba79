@@ -10,6 +10,11 @@
 
 ### <h1 align="center">I'm Armin</h1>
 
+#### Hello!
+I am Armin, a Computer Science student at Azad University. As a junior front-end developer, I have experience working with modern frameworks such as Tailwind CSS and React. Currently, I am learning Next.js to elevate my skills to the next level. Additionally, I am proficient in Python and have utilized it for various projects.
+
+---
+
 ### <h3 align="left">Language and tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
